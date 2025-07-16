@@ -1,6 +1,6 @@
-# Steam Games Analysis with PySpark 🎮
+# Steam Games Analysis with Jupyter and PySpark🎮
 
-This is a small project I made to play around with the Steam Web API and practice working with PySpark. The idea was to fetch real-time data from Steam, do some light data cleaning, and explore correlations between things like playtime, price, review scores, and more.
+This is a small project I made to play around with the Steam Web API and practice working with PySpark and Jupyter. The idea was to fetch real-time data from Steam, do some light data cleaning, and explore correlations between things like playtime, price, review scores, and more.
 
 Everything runs in a Colab notebook and pulls fresh data each time. I used PySpark for the main processing, and then visualized the results using Seaborn and Matplotlib.
 
